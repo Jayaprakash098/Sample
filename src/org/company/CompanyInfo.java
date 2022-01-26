@@ -6,4 +6,13 @@ public class CompanyInfo {
 
 		System.out.println("Company name = Accenture");
 	}
+	
+	
+	
+	
+	
+	private void address() {
+
+		System.out.println("Company Address = Chennai");
+	}
 }
