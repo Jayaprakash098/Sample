@@ -6,4 +6,9 @@ public class CompanyInfo {
 
 		System.out.println("Company name = Accenture");
 	}
+	private void id() {
+
+		System.out.println("Company Id = 145875");
+	}
+	
 }
